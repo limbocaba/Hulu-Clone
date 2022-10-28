@@ -1,15 +1,17 @@
 import React from "react";
 import "./VideoCard.css";
 
+const base_url = "https://image.tmdb.org/t/p/original/"
+
 function VideoCard({ movie }) {
   return (
     <div className="videoCard">
       <img
-        src="https://www.allaboutbirds.org/news/wp-content/uploads/2020/07/STanager-Shapiro-ML.jpg?page=Search"
-        alt=""
+        src={`${base_url}${movie.backdrop_path || movie.poster_path}`}
+        alt="movie poster"
       />
-      <p>This is a film about coding</p>
-      <h2>Movie Title</h2>
+      <p>{ movie.overview}</p>
+      <h2></h2>
       <p>Number of Likes...</p>
     </div>
   );
