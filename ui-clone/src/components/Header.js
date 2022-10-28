@@ -18,20 +18,25 @@ function Header() {
           < HomeIcon />
           <p>Home</p>
         </div>
-        <div>
+        <div className='header-icon'>
           <FlashOnIcon />
+          <p>Trending</p>
         </div>
-        <div>
+        <div className='header-icon'>
           <LiveTvIcon />
+          <p>Verified</p>
         </div>
-        <div>
+        <div className='header-icon'>
           <VideoLibraryIcon />
+          <p>Collections</p>
         </div>
-        <div>
+        <div className='header-icon'>
           <SearchIcon />
+          <p>Search</p>
         </div>
-        <div>
+        <div className='header-icon'>
           <PersonOutlineIcon />
+          <p>Account</p>
           </div>
       </div>
       <img src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png' alt=''/>
