@@ -44,3 +44,7 @@
   margin-right: auto;
   font-size: small;
 }
+
+.header-icon--active > p {
+  display: inline-flex !important;
+}
