@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Header.css"
-import Icon from '@mui/material/Icon';
 import HomeIcon from '@mui/icons-material/Home'
 import FlashOnIcon from '@mui/icons-material/FlashOn'
 import LiveTvIcon from '@mui/icons-material/LiveTv'
