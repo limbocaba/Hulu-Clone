@@ -13,12 +13,26 @@ function Header() {
   return (
     <div className='header'>
       <div className='header-icons'>
-        < HomeIcon />
-        <FlashOnIcon />
-        <LiveTvIcon />
-        <VideoLibraryIcon />
-        <SearchIcon />
-        <PersonOutlineIcon />
+
+        <div className='header-icon'>
+          < HomeIcon />
+          <p>Home</p>
+        </div>
+        <div>
+          <FlashOnIcon />
+        </div>
+        <div>
+          <LiveTvIcon />
+        </div>
+        <div>
+          <VideoLibraryIcon />
+        </div>
+        <div>
+          <SearchIcon />
+        </div>
+        <div>
+          <PersonOutlineIcon />
+          </div>
       </div>
       <img src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png' alt=''/>
     </div>
