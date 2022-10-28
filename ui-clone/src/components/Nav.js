@@ -4,16 +4,16 @@ import "./Nav.css";
 function Nav() {
   return (
     <div className="nav">
-      <h1>Trending</h1>
-      <h1>Top Rated</h1>
-      <h1>Action</h1>
-      <h1>Horror</h1>
-      <h1>Romance</h1>
-      <h1>Mystery</h1>
-      <h1>Sci-Fi</h1>
-      <h1>Western</h1>
-      <h1>Animation</h1>
-      <h1>Movie</h1>
+      <h2>Trending</h2>
+      <h2>Top Rated</h2>
+      <h2>Action</h2>
+      <h2>Horror</h2>
+      <h2>Romance</h2>
+      <h2>Mystery</h2>
+      <h2>Sci-Fi</h2>
+      <h2>Western</h2>
+      <h2>Animation</h2>
+      <h2>Movie</h2>
     </div>
   );
 }
