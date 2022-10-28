@@ -31,3 +31,16 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.header-icon:hover > p {
+  display: inline;
+}
+
+.header-icon > p {
+  display: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+}
