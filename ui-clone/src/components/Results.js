@@ -4,9 +4,10 @@ import VideoCard from './VideoCard';
 import axios from '../axios'
 import requests from '../requests';
 
-function Results() {
+function Results({ selectedOption }) {
   const [movies, setMovies] = useState([])
   console.log(requests.fetchActionMovies)
+
   useEffect(() => { // run this code when the Results component loads/mounts
     async function fetchData() {
       const response = await axios.get(requests.fetchActionMovies)

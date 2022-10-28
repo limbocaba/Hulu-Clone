@@ -38,7 +38,7 @@ function Header() {
           <p>Account</p>
           </div>
       </div>
-      <img src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png' alt=''/>
+      <img className='header-img' src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png' alt=''/>
     </div>
   )
 }
