@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header';
 import Nav from './components/Nav';
+import Results from './components/Results';
 
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
 
       <Nav />
 
-      {/* Results */}
+      <Results />
+      
     </div>
   );
 }
