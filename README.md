@@ -65,8 +65,12 @@ LinkedIn: https://www.linkedin.com/in/jorielcaba2002/
 
 #
 
-https://mui.com/material-ui/material-icons/
-https://reactjs.org/
-https://www.themoviedb.org/
-https://www.youtube.com/c/WebDevSimplified
-https://www.youtube.com/c/CleverProgrammer
+- https://mui.com/material-ui/material-icons/
+
+- https://reactjs.org/
+
+- https://www.themoviedb.org/
+
+- https://www.youtube.com/c/WebDevSimplified
+
+- https://www.youtube.com/c/CleverProgrammer
