@@ -1,5 +1,7 @@
 # Hulu-Clone
 
+<img src="./hulucloneSS.png" />
+
 This project was set out to create a page that closely resembles that of the official Hulu homepage. From the navbar to the movies to the placement of the items, it was intended to get as close as possible.
 
 ## Built With
@@ -42,4 +44,9 @@ const API_KEY = "Your API Key here";
 
 # Post-MVP Goals
 
-<img src="./hulucloneSS.png" />
+- [ ] Display a play button when a movie/show is hovered over
+- [ ] Take user to the YouTube trailer of content when it is clicked
+- [ ] Add language-friendly setting for :
+- Spanish
+- French
+- Chinese
