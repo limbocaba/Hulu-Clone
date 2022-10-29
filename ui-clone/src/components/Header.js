@@ -8,7 +8,7 @@ import SearchIcon from '@mui/icons-material/Search'
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline'
 
 
-function Header() {
+function Header(setSelectedOption) {
   return (
     <div className='header'>
       <div className='header-icons'>
