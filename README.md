@@ -10,7 +10,7 @@ This project was set out to create a page that closely resembles that of the off
 
 # Getting Started
 
-To go to the live deployed site, check out this link to head straight there 👉🏼 **_PUT LINK HERE_**
+To go to the live deployed site, check out this link to head straight there 👉🏼 https://sandys-clone.surge.sh/
 
 Or if you're pulling this repo and running it locally, simply follow these steps to be able to access the repo:
 
