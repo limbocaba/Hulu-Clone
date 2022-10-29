@@ -14,6 +14,7 @@ function Results({ selectedOption }) {
       const response = await axios.get(selectedOption)
      
       setMovies(response.data.results)
+      console.log(response.data.results)
       return response
     }
     
