@@ -1,5 +1,7 @@
 # Hulu-Clone
 
+Click here to see the ![Deployed Site](https://sandys-clone.surge.sh/)
+
 <img src="./hulucloneSS.png" />
 
 This project was set out to create a page that closely resembles that of the official Hulu homepage. From the navbar to the movies to the placement of the items, it was intended to get as close as possible.
@@ -10,9 +12,8 @@ This project was set out to create a page that closely resembles that of the off
 
 # Getting Started
 
-To go to the live deployed site, check out this link to head straight there 👉🏼 https://sandys-clone.surge.sh/
 
-Or if you're pulling this repo and running it locally, simply follow these steps to be able to access the repo:
+If you're pulling this repo and running it locally, simply follow these steps to be able to access the repo:
 
 ```sh
 npm install npm@latest -g
