@@ -1,6 +1,6 @@
 # Hulu-Clone
 
-Click here to see the ![Deployed Site](https://sandys-clone.surge.sh/)
+Click here to see the [Deployed Site](https://sandys-clone.surge.sh/)
 
 <img src="./hulucloneSS.png" />
 
